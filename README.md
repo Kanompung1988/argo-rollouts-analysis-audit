@@ -1,4 +1,5 @@
 <p align="center"><img src="assets/areazero-logo.svg" alt="Original Area Zero brand logo" width="270"></p>
+<p align="center"><img src="assets/hero.svg" width="100%" alt="Original progressive delivery metric gate illustration"></p>
 
 # Argo Rollouts Analysis Audit
 
